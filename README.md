@@ -24,33 +24,6 @@
 
 * Nguyễn Đức Toàn ( Leader )
 * Nguyễn Thanh
-* Trần Lương Tiến Sĩ
-* Nguyễn Thành Trung
-
-## Website
-
-Tech stack
-- Front-end: ⚛️Reactjs
-- Back-end: 💻Nodejs + MongoDB or MySQL
-
-=======
-
-Link website: http://taturoshop.online
-
-=======
-
-Link API Doc: http://localhost:8800
-
-## Usage
-
-1. open ```cmd``` program
-2. go to project folder
-3. type ```npm install``` to install dependencies
-4. type ```npm start``` to execute the api server
-5. type ```npm run genAPIDoc``` to generate the apidoc documents
-6. to check the result: open web browser
-      + API Doc: http://localhost:8800
-      + API URL: http://localhost:8800/...
 
 ## License
 
