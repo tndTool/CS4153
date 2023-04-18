@@ -1,7 +1,4 @@
 <p align="center">
-  <img width="600" src="https://res.cloudinary.com/dxchkmler/image/upload/v1669827309/logo_mwaet4_rtfdjz.png">
-</p>
-<p align="center">
     <a href="https://github.com/l0ntdtn0l/Group13_MSIS207.N12.CTTT/blob/main/FE/package.json" alt="Dependencies">
         <img src="https://img.shields.io/librariesio/github/l0ntdtn0l/Group13_MSIS207.N12.CTTT" /></a>
     <a href="#">
