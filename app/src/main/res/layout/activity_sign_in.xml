@@ -34,7 +34,8 @@
             android:ems="10"
             android:hint="Email"
             android:inputType="textEmailAddress"
-            android:padding="9dp"
+            android:padding="16dp"
+            android:textSize="18sp"
             android:textColor="@color/black"
             android:textColorHint="@color/chatBackground1" />
 
@@ -45,7 +46,8 @@
             android:ems="10"
             android:hint="Password"
             android:inputType="textPassword"
-            android:padding="9dp"
+            android:padding="16dp"
+            android:textSize="18sp"
             android:textColor="@color/black"
             android:textColorHint="@color/chatBackground1" />
 
@@ -119,7 +121,6 @@
             android:text="Sign In with Phone"
             android:textColor="@color/black"
             android:textSize="19sp"/>
-
 
     </LinearLayout>
 
