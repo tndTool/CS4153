@@ -18,13 +18,13 @@
         android:layout_marginRight="30dp"
         android:gravity="center_horizontal"
         android:orientation="vertical">
-        
+
         <ImageView
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:id="@+id/imageView"
             android:src="@drawable/ic_whatsapp"/>
-        
+
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -34,10 +34,11 @@
             android:ems="10"
             android:hint="Username"
             android:inputType="textPersonName"
-            android:padding="9dp"
+            android:textSize="18sp"
+            android:padding="16dp"
             android:textColor="@color/black"
             android:textColorHint="@color/chatBackground1"/>
-        
+
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -45,7 +46,8 @@
             android:id="@+id/txtEmail"
             android:hint="Email"
             android:inputType="textEmailAddress"
-            android:padding="9dp"
+            android:padding="16dp"
+            android:textSize="18sp"
             android:textColor="@color/black"
             android:textColorHint="@color/chatBackground1"/>
 
@@ -56,7 +58,8 @@
             android:ems="10"
             android:hint="Password"
             android:inputType="textPassword"
-            android:padding="9dp"
+            android:padding="16dp"
+            android:textSize="18sp"
             android:textColor="@color/black"
             android:textColorHint="@color/chatBackground1"/>
         <TextView
@@ -64,7 +67,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/txtAlreadyHaveAccount"
             android:layout_gravity="right"
-            android:text="Already Have ccount?"
+            android:text="Already Have Account?"
             android:textColor="@color/black"
             android:gravity="right"
             android:padding="5dp"
