@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-
-    <color name="colorPrimary">#0b6156</color>
-    <color name="colorPrimaryDark">#095049</color>
-    <color name="colorAccent">#03dac5</color>
-    <color name="lightGrey">#ededed</color>
-    <color name="whatAppColor">#0b6156</color>
-    <color name="red">#9f0b0b</color>
-    <color name="status_background">#009688</color>
-    <color name="chat_background">#8bc34a</color>
-    <color name="fb_color">#3c5793</color>
-    <color name="lightgreen">#e5ffcc</color>
-    <color name="settingsIconColor">#0e8374</color>
-    <color name="grayBackground">#bcbcbc</color>
-    <color name="chatBackground">#aaaaaa</color>
-    <color name="chatBackground1">#333333</color>
+    <color name="purple_200">#B983FC</color>
+    <color name="purple_500">#9C36FF</color>
+    <color name="purple_700">#8230D9</color>
+    <color name="teal_200">#06d5c3</color>
+    <color name="teal_700">#079A9A</color>
+    <color name="black">#1B1B1B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#13A085</color>
+    <color name="colorPrimaryDark">#0C7A6A</color>
+    <color name="colorAccent">#06d5c3</color>
+    <color name="lightGrey">#ECECEC</color>
+    <color name="whatAppColor">#13A085</color>
+    <color name="red">#D50000</color>
+    <color name="status_background">#00BFA6</color>
+    <color name="chat_background">#81C785</color>
+    <color name="fb_color">#4B6BBA</color>
+    <color name="lightgreen">#EDFFF3</color>
+    <color name="settingsIconColor">#13A085</color>
+    <color name="grayBackground">#EEEEEE</color>
+    <color name="chatBackground">#B8B8B8</color>
+    <color name="chatBackground1">#555555</color>
 </resources>
