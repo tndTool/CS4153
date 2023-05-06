@@ -13,12 +13,19 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.CS4153">
+
         <activity
-            android:name=".GroupChatActivity"
+            android:name=".SettingActivity"
             android:exported="false" />
+
         <activity
             android:name=".ChatDetailActivity"
             android:exported="false" />
+
+        <activity
+            android:name=".GroupChatActivity"
+            android:exported="false" />
+
         <activity
             android:name=".SignInActivity"
             android:exported="true">
@@ -28,7 +35,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity android:name=".SignUpActivity" />
+
         <activity android:name=".MainActivity" />
     </application>
 
