@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ChatDetailActivity"
-    android:background="@drawable/w4">
+    android:background="@drawable/w2">
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
@@ -20,6 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
+        android:layout_marginBottom="4dp"
         android:layout_alignParentBottom="true"
         android:id="@+id/linear">
 

@@ -14,20 +14,20 @@
     android:minHeight="30dp">
 
     <TextView
+        android:id="@+id/receiverText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/receiverText"
         android:layout_margin="8dp"
         android:inputType="textLongMessage|textMultiLine"
+        android:minHeight="48dp"
+        android:minWidth="48dp"
         android:maxWidth="270dp"
-        android:minWidth="50dp"
         android:text="TextView"
         app:layout_constraintBottom_toTopOf="@+id/receiverTime"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
-        />
+        app:layout_constraintVertical_bias="1.0" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -42,10 +42,10 @@
         app:layout_constraintEnd_toEndOf="parent"/>
 
     <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/guideline2"
         android:orientation="vertical"
-        app:layout_constraintGuide_begin="16dp"/>
+        app:layout_constraintGuide_percent="0.17777778" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
