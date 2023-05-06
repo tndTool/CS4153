@@ -43,7 +43,7 @@ public class FragmentsAdapter extends FragmentPagerAdapter {
         }
 
         if(position == 1) {
-            title = "STATUS";
+            title = "Chat Bot";
         }
 
         if(position == 2) {
